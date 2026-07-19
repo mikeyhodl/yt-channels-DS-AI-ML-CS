@@ -23,6 +23,7 @@ Table of Contents
   - [Data Engineering](#data-engineering)
   - [Statistics/Math](#statisticsmath)
   - [AI research](#ai-research)
+  - [Computer Science / Algorithms](#computer-science--algorithms)
   - [Programming](#programming)
   - [Web-dev (HTML, CSS, JS)](#web-dev-html-css-js)
   - [Software Engineering](#software-engineering)
@@ -125,6 +126,12 @@ Table of Contents
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 - [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
 - [AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
+
+## Computer Science / Algorithms
+
+- [Reducible](https://www.youtube.com/@Reducible)
+- [Spanning Tree](https://www.youtube.com/@SpanningTree)
+- [Algorithms Lab](https://www.youtube.com/@algorithmslab)
 
 ## Programming
 
